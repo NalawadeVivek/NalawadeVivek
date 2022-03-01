@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NalawadeVivek
-- 👀 I’m interested in python, Deep Learning, AI & ML, 
+- 👀 I’m interested in c, c++, java, python, Deep Learning, AI & ML. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 reach out to me on viveknalawade2@gmail.com
