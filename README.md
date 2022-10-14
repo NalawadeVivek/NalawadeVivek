@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NalawadeVivek
-- 👀 I’m interested in c, c++, java, python, Deep Learning, AI & ML. 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in c, c++, GoLang. 
+- 🌱 I’m currently learning GoLang
+- 💞️ I’m looking to collaborate on GoLang
 - 📫 reach out to me on viveknalawade2@gmail.com
 
 <!---
